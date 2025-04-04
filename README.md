@@ -1,5 +1,9 @@
 # 🪙 Gold Price Predictor 💸
 
+https://gold-price-predictor-yeatwztuwqnq7eqrbfgnyt.streamlit.app/
+
+
+
 This is a web-based app built with **Streamlit** that predicts gold prices based on financial indicators like the S&P 500 index and Silver price. The app uses a **Random Forest Regressor** model for accurate price forecasting.
 
 ## 🚀 Features
